@@ -63,7 +63,7 @@
     width: 300px;
     text-align: center;
     color: blue;
-    margin-left: 100px;
+    margin-left: 165px;
     margin-top: -100px;
   }
 
@@ -76,8 +76,11 @@
     box-shadow: -5px 5px 10px rgba(0,0,0,0.2);
     cursor: pointer;
     width:100px;
+    margin-top: 100px;
+    margin-left: 200;
   }
   
   #play-btn:hover {
     background: #F82414;
+    width: 250px;
   }
